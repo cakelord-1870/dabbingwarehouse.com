@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dabbingwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dabbingwarehouse.com/collections/hybrid-nail-kits-accessories.atom"/>
+  <title>Dabbing Warehouse</title>
+  <updated>2018-03-08T09:53:29-08:00</updated>
+  <author>
+    <name>Dabbing Warehouse</name>
+  </author>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523726618634</id>
+    <published>2018-03-08T09:53:29-08:00</published>
+    <updated>2018-03-08T09:53:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/quartz-nail-dish"/>
+    <title>Quartz Nail Dish</title>
+    <s:type>Quartz</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/quartz-nail-dish-314498.png?v=1620785593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Quartz<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Quartz Nail Dish</strong></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 6301</p>
+<ul>
+<li>
+<span></span><span>100% Pure Quartz Glass</span>
+</li>
+<li>
+<span></span><span>1.00" Outside Diameter</span>
+</li>
+<li>
+<span></span><span>.375" Inside Diameter</span>
+</li>
+<li>
+<span></span><span>Use with a Flat Coil or Torch</span>
+</li>
+<li><span>Use with all The Dabbing Specialists Enail Bodies &amp; Hybrid Kits</span></li>
+<li>
+<span></span><span>Q-tip swab after each use to maintain high quality taste / </span><span><br> </span><span>Soak in hot alcohol for a thorough cleaning and use small scraper and Q-tip. </span>
+</li>
+<li>
+<span></span><span>Imported</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bowl</s:tag>
+    <s:tag>dish</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>quartz</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523726618634</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523726520330</id>
+    <published>2018-03-08T09:53:26-08:00</published>
+    <updated>2018-03-08T09:53:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/titanium-dish-fastener-screw-short"/>
+    <title>Titanium Dish Fastener Screw (Short)</title>
+    <s:type>Titanium</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/titanium-dish-fastener-screw-short-593623.jpg?v=1620785940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Titanium<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Titanium and Quartz Dish Fastener (Short)</strong></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 2502</p>
+<ul>
+<li>
+<span></span><span>Material: Grade 2 Titanium 99.4% Pure, Melted in the USA</span>
+</li>
+<li>
+<span></span><span>Engineered, Designed, &amp; CNC Machined in the USA</span>
+</li>
+<li>
+<span></span><span>Deburred and Sterilized Using a Special Process</span>
+</li>
+<li>
+<span></span><span>Used with Hybrid Quartz Dish and Titanium Dishes and All TDS Titanium Enail Adapter Bodies</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kit</s:tag>
+    <s:tag>screw</s:tag>
+    <s:tag>titanium</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523726520330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523726389258</id>
+    <published>2018-03-08T09:53:20-08:00</published>
+    <updated>2018-03-08T09:53:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/hybrid-quartz-nail-kit-14mm-18mm-female"/>
+    <title>Hybrid Quartz Nail Dab Kit - 14mm/18mm Female Kit</title>
+    <s:type>Hybrid Nail</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/hybrid-quartz-nail-dab-kit-14mm18mm-female-kit-765621.png?v=1620784976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Hybrid Nail<br>
+        <strong>Price: </strong>
+            38.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hybrid Quartz Nail Dab Kit - 14mm/18mm Female Kit</strong></p>
+<p><span style="color: #ff0000;"><strong>Our Made in the USA Titanium is a must-try experience!</strong></span></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" title="View our shipping fees &amp; policies!" target="_blank">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 6401</p>
+<p><span><strong>Includes:</strong><br></span></p>
+<p><a href="https://dabbingwarehouse.com/products/18mm-x-14mm-titanium-adapter-female" title="P/N 3102" target="_blank">P/N 3102</a>  14mm &amp; 18mm Female Enail Titanium Body<br><a href="https://dabbingwarehouse.com/products/titanium-dish-fastener-screw-short" title="P/N 2502" target="_blank">P/N 2502</a>  Short Titanium Dish Fastener<br><a href="https://dabbingwarehouse.com/products/quartz-glass-nail-dish" title="P/N 6301" target="_blank">P/N 6301</a>  Quartz Dish  </p>
+<p><a href="https://dabbingwarehouse.com/products/carb-cap-bangers" title="Enjoy a free gift with this purchase!" target="_blank">*You will also receive a banger cap with dabber!</a></p>
+<ul>
+<li>Can be used with a Torch or a Flat Coil TDS <a href="https://dabbingwarehouse.com/products/coil-heater-flat" title="P/N 6701" target="_blank">P/N 6701</a>.</li>
+<li>Fits pipe joints 14 &amp; 18mm Male</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adapter</s:tag>
+    <s:tag>bowl</s:tag>
+    <s:tag>dish</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>quartz</s:tag>
+    <s:tag>screw</s:tag>
+    <s:tag>titanium</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523726389258</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523726192650</id>
+    <published>2018-03-08T09:53:13-08:00</published>
+    <updated>2018-03-08T09:53:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/hybrid-quartz-nail-kit-10mm-14mm-female"/>
+    <title>Hybrid Quartz Nail Dab Kit - 10mm/14mm Female Kit</title>
+    <s:type>Hybrid Nail</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/hybrid-quartz-nail-dab-kit-10mm14mm-female-kit-339611.png?v=1620784975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Hybrid Nail<br>
+        <strong>Price: </strong>
+            38.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hybrid Quartz Nail Dab Kit - 10mm/14mm Female Kit</strong></p>
+<p><span style="color: #ff0000;"><strong>Our Made in the USA Titanium is a must try experience!</strong></span></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" title="View our shipping fees &amp; policies!" target="_blank">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 6402</p>
+<p><strong>Includes:</strong></p>
+<p><a href="https://dabbingwarehouse.com/products/14mm-x-10mm-titanium-adapter-female" title="P/N 3101" target="_blank">P/N 3101</a>  10mm &amp; 14mm Female Enail Titanium Body- Made in USA<br><a href="https://dabbingwarehouse.com/products/titanium-dish-fastener-screw-short" title="P/N 2502" target="_blank">P/N 2502</a>  Short Titanium Dish Fastener- Made in USA<br><a href="https://dabbingwarehouse.com/products/quartz-glass-nail-dish" title="P/N 6301" target="_blank">P/N 6301</a>  Quartz Dish</p>
+<p><a href="https://dabbingwarehouse.com/products/carb-cap-bangers" title="Enjoy a free gift with this purchase!" target="_blank">*You will also receive a banger cap with dabber!</a></p>
+<ul>
+<li>Can be used with a Torch or a Flat Coil TDS <a href="https://dabbingwarehouse.com/products/coil-heater-flat" title="P/N 6701" target="_blank">P/N 6701</a>.</li>
+<li>Fits pipe joints 10 &amp; 14mm Male</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adapter</s:tag>
+    <s:tag>bowl</s:tag>
+    <s:tag>dish</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>quartz</s:tag>
+    <s:tag>screw</s:tag>
+    <s:tag>titanium</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523726192650</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523725963274</id>
+    <published>2018-03-08T09:53:05-08:00</published>
+    <updated>2018-03-08T09:53:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/hybrid-quartz-nail-kit-18mm-14mm-male"/>
+    <title>Hybrid Quartz Nail Dab Kit - 18mm/14mm Male Kit</title>
+    <s:type>Hybrid Nail</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/hybrid-quartz-nail-dab-kit-18mm14mm-male-kit-835004.png?v=1620784975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Hybrid Nail<br>
+        <strong>Price: </strong>
+            38.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hybrid Quartz Nail Dab Kit - 18mm/14mm Male Kit</strong></p>
+<p><span style="color: #ff0000;"><strong>Our Made in the USA Titanium is a must-try experience!</strong></span></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" title="View our shipping fees &amp; policies!" target="_blank">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 6403</p>
+<p><strong>Includes:</strong></p>
+<p><a href="https://dabbingwarehouse.com/products/18mm-x-14mm-titanium-adapter-male" title="P/N 3201" target="_blank">P/N 3201</a>  18mm &amp; 14mm Male Enail Titanium Body<br><a href="https://dabbingwarehouse.com/products/titanium-dish-fastener-screw-short" title="P/N 2502" target="_blank">P/N 2502</a>  Short Titanium Dish Fastener<br><a href="https://dabbingwarehouse.com/products/quartz-glass-nail-dish" title="P/N 6301" target="_blank">P/N 6301</a>  Quartz Dish<br><br><a href="https://dabbingwarehouse.com/products/carb-cap-bangers" title="Enjoy a free gift with this purchase!" target="_blank">*You will also receive a banger cap with dabber!</a></p>
+<ul>
+<li>Can be used with a Torch or a Flat Coil TDS P/N <a href="https://dabbingwarehouse.com/products/coil-heater-flat" title="P/N 6701" target="_blank">6701</a>.</li>
+<li>Fits pipe joints 18mm &amp; 14mm Female</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14mm</s:tag>
+    <s:tag>18mm</s:tag>
+    <s:tag>adapter</s:tag>
+    <s:tag>bowl</s:tag>
+    <s:tag>dish</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>male</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>quartz</s:tag>
+    <s:tag>screw</s:tag>
+    <s:tag>titanium</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523725963274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">38.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523725701130</id>
+    <published>2018-03-08T09:53:02-08:00</published>
+    <updated>2018-03-08T09:53:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/titanium-nail-dish"/>
+    <title>Titanium Nail Dish</title>
+    <s:type>Titanium</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/titanium-nail-dish-488568.jpg?v=1620785945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Titanium<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Titanium Nail Dish</strong></span></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 2501</p>
+<p><span style="color: #ff0000;"><strong>Our Made in the USA Titanium is a must try experience!</strong></span></p>
+<ul>
+<li>
+<span></span><span>Material: Grade 2 Titanium 99.4% Pure, Melted in the USA</span>
+</li>
+<li>
+<span></span><span>Engineered, Designed, &amp; CNC Machined in the USA</span>
+</li>
+<li>
+<span></span><span>Deburred and Sterilized Using a Special Process</span>
+</li>
+<li>
+<span></span><span>1.00" Outside Diameter</span>
+</li>
+<li>
+<span></span><span>.375" Inside Diameter</span>
+</li>
+<li>Use with a Flat Coil <a href="https://dabbingwarehouse.com/products/coil-heater-flat" target="_blank" title="P/N 6701" rel="noopener noreferrer">P/N 6701</a> or Torch</li>
+<li>
+<span></span><span>Use with all TDS Enail Bodies</span>
+</li>
+<li>Q-tip swab after each use to maintain high-quality taste </li>
+<li>Soak in hot alcohol for a thorough cleaning and use small scraper and Q-tip, rinse with hot water.</li>
+</ul>
+<ul></ul>
+<span style="color: #ff0000;"><strong>*Engineered to use at a coil temperature setting of 750 degrees Fahrenheit.</strong></span><br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dish</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Titanium</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523725701130</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523725471754</id>
+    <published>2018-03-08T09:52:56-08:00</published>
+    <updated>2018-03-08T09:52:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/hybrid-titanium-nail-kit-14mm-18mm-female"/>
+    <title>Hybrid Titanium Nail Dab Kit - 14mm/18mm Female Kit</title>
+    <s:type>Titanium</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/hybrid-titanium-nail-dab-kit-14mm18mm-female-kit-984222.png?v=1620785315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Titanium<br>
+        <strong>Price: </strong>
+            41.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hybrid Titanium Nail Dab Kit - 14mm/18mm Female Kit</strong></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" title="View our shipping fees &amp; policies!" target="_blank">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 2402</p>
+<p><span style="color: #ff0000;"><strong>Our Made in the USA Titanium is a must-try experience!</strong></span></p>
+<p><strong>Includes:</strong></p>
+<p><a href="https://dabbingwarehouse.com/products/18mm-x-14mm-titanium-adapter-female" title="P/N 3102" target="_blank">P/N 3102</a> 14mm &amp; 18mm Female Enail Titanium Body<br><a href="https://dabbingwarehouse.com/products/titanium-dish-fastener-screw-short" title="P/N 2502" target="_blank">P/N 2502</a> Short Titanium Dish Screw Fastener<br><a href="https://dabbingwarehouse.com/products/titanium-nail-dish" title="P/N 2501" target="_blank">P/N 2501</a> Titanium Dish</p>
+<p><a href="https://dabbingwarehouse.com/products/carb-cap-purple-hybrid-dabber" title="Enjoy a free gift with this purchase!" target="_blank">*You will also receive a carb cap lollipop dabber!</a></p>
+<p><strong>Material:</strong></p>
+<ul>
+<li>Grade 2 Titanium 99.4% Pure, Melted in the USA</li>
+<li>
+<span></span><span>Engineered, Designed, &amp; CNC Machined in the USA</span>
+</li>
+<li>
+<span></span><span>Deburred and Sterilized Using a Special Process</span>
+</li>
+</ul>
+<p>Can be used with a Torch or a Flat Coil TDS <a href="https://dabbingwarehouse.com/products/coil-heater-flat" title="P/N 6701" target="_blank">P/N 6701</a>.<br>Fits 14mm &amp; 18mm Male pipe joints.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adapter</s:tag>
+    <s:tag>Dish</s:tag>
+    <s:tag>enail</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Titanium</s:tag>
+    <s:tag>Titanium Adapters</s:tag>
+    <s:tag>Titanium Kit</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523725471754</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523725340682</id>
+    <published>2018-03-08T09:52:51-08:00</published>
+    <updated>2018-03-08T09:52:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/hybrid-titanium-nail-kit-14mm-18mm-male"/>
+    <title>Hybrid Titanium Nail Dab Kit - 14mm/18mm Male</title>
+    <s:type>Titanium</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/hybrid-titanium-nail-dab-kit-14mm18mm-male-kit-827412.png?v=1620785453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Titanium<br>
+        <strong>Price: </strong>
+            41.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hybrid Titanium Nail Dab Kit - 14mm/18mm Male Kit</strong></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" title="View our shipping fees &amp; policies!" target="_blank">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 2403</p>
+<p><span style="color: #ff0000;"><strong>Our Made in the USA Titanium is a must-try experience!</strong></span></p>
+<p><strong>Includes:</strong></p>
+<p><a href="https://dabbingwarehouse.com/products/18mm-x-14mm-titanium-adapter-male" title="P/N 3201" target="_blank">P/N 3201</a> 14mm &amp; 18mm Male Enail Titanium Body<br><a href="https://dabbingwarehouse.com/products/titanium-dish-fastener-screw-short" title="P/N 2502" target="_blank">P/N 2502</a> Short Titanium Dish Screw Fastener<br><a href="https://dabbingwarehouse.com/products/titanium-nail-dish" title="P/N 2501" target="_blank">P/N 2501</a> Titanium Dish</p>
+<p><a href="https://dabbingwarehouse.com/products/carb-cap-purple-hybrid-dabber" title="Enjoy a free gift with this purchase!" target="_blank">*You will also receive a carb cap lollipop dabber!</a></p>
+<p><strong>Material:</strong></p>
+<ul>
+<li>Grade 2 Titanium 99.4% Pure, Melted in the USA</li>
+<li>
+<span></span><span>Engineered, Designed, &amp; CNC Machined in the USA</span>
+</li>
+<li>
+<span></span><span>Deburred and Sterilized Using a Special Process</span>
+</li>
+</ul>
+<p>Can be used with a Torch or a Flat Coil TDS <a href="https://dabbingwarehouse.com/products/coil-heater-flat" title="P/N 6701" target="_blank">P/N 6701</a>.<br>Fits 14mm &amp; 18mm Female pipe joints.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adapter</s:tag>
+    <s:tag>enail</s:tag>
+    <s:tag>Male</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Titanium</s:tag>
+    <s:tag>Titanium Adapters</s:tag>
+    <s:tag>Titanium Kit</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523725340682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523725111306</id>
+    <published>2018-03-08T09:52:48-08:00</published>
+    <updated>2018-03-08T09:52:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/hybrid-titanium-nail-kit-10mm-14mm-female"/>
+    <title>Hybrid Titanium Nail Dab Kit - 10mm/14mm Female Kit</title>
+    <s:type>Titanium</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/hybrid-titanium-nail-dab-kit-10mm14mm-female-kit-363463.png?v=1620784986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Titanium<br>
+        <strong>Price: </strong>
+            41.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hybrid Titanium Nail Dab Kit - 10mm/14mm Female Kit</strong></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" title="View our shipping fees &amp; policies!" target="_blank">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 2401</p>
+<p><span style="color: #ff0000;"><strong>Our Made in the USA Titanium is a must-try experience!</strong></span></p>
+<p><strong>Includes:</strong></p>
+<a href="https://dabbingwarehouse.com/products/14mm-x-10mm-titanium-adapter-female" title="P/N 3101" target="_blank">P/N 3101</a><span> 10mm &amp; 14mm Female </span>Enail<span> Titanium Body</span><br><a href="https://dabbingwarehouse.com/products/titanium-dish-fastener-screw-short" title="P/N 2502" target="_blank">P/N 2502</a><span> Short Titanium Dish Screw Fastener</span><br><a href="https://dabbingwarehouse.com/products/titanium-nail-dish" title="P/N 2501" target="_blank">P/N 2501</a><span> Titanium Dish</span><br>
+<ul></ul>
+<p><a href="https://dabbingwarehouse.com/products/carb-cap-purple-hybrid-dabber" title="Enjoy a free gift with this purchase!" target="_blank">*You will also receive a carb cap lollipop dabber!</a></p>
+<p><strong>Material:</strong></p>
+<ul>
+<li>Grade 2 Titanium 99.4% Pure, Melted in the USA</li>
+<li>
+<span></span><span>Engineered, Designed, &amp; CNC Machined in the USA</span>
+</li>
+<li>
+<span></span><span>Deburred and Sterilized Using a Special Process</span>
+</li>
+</ul>
+<p>Can be used with a Torch or a Flat Coil TDS <a href="https://dabbingwarehouse.com/products/coil-heater-flat" title="P/N 6701" target="_blank">P/N 6701</a>.<br>Fits 10mm &amp; 14mm Male pipe joints.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adapter</s:tag>
+    <s:tag>Dish</s:tag>
+    <s:tag>Kit</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Titanium</s:tag>
+    <s:tag>Titanium Adapters</s:tag>
+    <s:tag>Titanium Kit</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523725111306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">41.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523723931658</id>
+    <published>2018-03-08T09:52:10-08:00</published>
+    <updated>2018-03-08T09:52:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/carb-cap-hybrid"/>
+    <title>Carb Cap Dabber for Hybrid Nails</title>
+    <s:type>Carb Cap</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/Carb_Hybrid_001.png?v=1520531532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Carb Cap<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Carb Cap Dabber for Hybrid Nails</strong></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 6306</p>
+<ul>
+<li>﻿100% Quartz</li>
+<li>Helps control airflow intake.</li>
+<li>Works with all TDS Hybrid Quartz and Titanium Kits.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carb Cap</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Hybrid</s:tag>
+    <s:tag>Hybrid Nail</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523723931658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523723210762</id>
+    <published>2018-03-08T09:51:32-08:00</published>
+    <updated>2018-03-08T09:51:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/hybrid-universal-titanium-dish-nail"/>
+    <title>Hybrid Universal Titanium Dish Nail Dab Kit</title>
+    <s:type>Hybrid Nail</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/hybrid-universal-titanium-dish-nail-dab-kit-286256.png?v=1620785454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Hybrid Nail<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hybrid Universal Titanium Dish Nail Dab Kit</strong></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 2601</p>
+<ul>
+<li>Fits 10mm, 14mm, 18mm Male &amp; Female Joints (Universal)</li>
+<li>Uses Flat Coil Enail - <a href="https://dabbingwarehouse.com/products/coil-heater-flat" target="_blank" title="P/N 6701" rel="noopener noreferrer">P/N 6701</a>.</li>
+<li>.875" Diameter Nail.</li>
+<li>Grade 2 Titanium.</li>
+<li>Heater Coil is not included.</li>
+<li>Imported</li>
+</ul>
+<span>This universal dab rig nail is a one size fits all for male and female joints. It works on 10mm, 14mm, and 18mm bubbler pipes and oil rig joints, again either male or female. It's made from high-quality Type 2 titanium. This universal titanium nail kit will fit any water pipe or oil rig.</span><br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10mm</s:tag>
+    <s:tag>14mm</s:tag>
+    <s:tag>18mm</s:tag>
+    <s:tag>dish</s:tag>
+    <s:tag>enail</s:tag>
+    <s:tag>female</s:tag>
+    <s:tag>hybrid</s:tag>
+    <s:tag>male</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>titanium</s:tag>
+    <s:tag>universal</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523723210762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523722391562</id>
+    <published>2018-03-08T09:51:16-08:00</published>
+    <updated>2018-03-08T09:51:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/carb-cap-purple-hybrid-dabber"/>
+    <title>Carb Cap - Lollipop with Dabber</title>
+    <s:type>Carb Cap</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/Carb_Hybrid_Purple_001.png?v=1520531477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Carb Cap<br>
+        <strong>Price: </strong>
+            10.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Carb Cap - Lollipop with Dabber</strong></p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p>
+<p>Description for Part Number 6651</p>
+<ul>
+<li>Helps Control Airflow Intake</li>
+<li>1.0" Dia.Head</li>
+<li>Works with all TDS Titanium Nails with Raised Centers, and all TDS Hybrids</li>
+<li>Medical Grade 2 Titanium, with a purple anodized finish</li>
+<li>Includes 2" Scoop Titanium Dabber</li>
+<li>Convenient and Easy to Use</li>
+<li>
+<span>Impor</span><span>t</span><span>ed</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523722391562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

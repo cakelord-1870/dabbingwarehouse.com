@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dabbingwarehouse.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dabbingwarehouse.com/collections/apparel.atom"/>
+  <title>Dabbing Warehouse</title>
+  <updated>2018-03-08T09:54:31-08:00</updated>
+  <author>
+    <name>Dabbing Warehouse</name>
+  </author>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523728388106</id>
+    <published>2018-03-08T09:54:31-08:00</published>
+    <updated>2018-03-08T09:54:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/the-dabbing-specialists-official-flexfit-hat"/>
+    <title>The Dabbing Specialists Bolt Logo FlexFit Hat</title>
+    <s:type>Hats</s:type>
+    <s:vendor>The Dabbing Specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/the-dabbing-specialists-bolt-logo-flexfit-hat-128102.jpg?v=1620785771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Dabbing Specialists<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The first official The Dabbing Specialists hat is presented in FlexFit for the best comfort around. It comes in both S/M and L/XL.</p>
+<p>Grab some gear, and get lifted!</p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparel</s:tag>
+    <s:tag>FlexFit</s:tag>
+    <s:tag>Hat</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728388106</id>
+      <title>S/M</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728388106</id>
+      <title>L/XL</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523728257034</id>
+    <published>2018-03-08T09:54:27-08:00</published>
+    <updated>2018-03-08T09:54:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/tds-motto-tee-shirt"/>
+    <title>The Dabbing Specialists Motto Tee Shirt</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>The Dabbing Specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/the-dabbing-specialists-motto-tee-shirt-117068.jpg?v=1620785826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Dabbing Specialists<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wear the TDS mission full frontal with the new The Dabbing Specialists motto tee shirts. These come in two colors, black and gray. The black shirts are Gildan 100% cotton tees, and the gray shirts are Port &amp; Company 98% cotton and 2% polyester blend.</p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apparel</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>shirts</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728257034</id>
+      <title>Black / M</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728257034</id>
+      <title>Black / L</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728257034</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728257034</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728257034</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728257034</id>
+      <title>Gray / XL</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dabbingwarehouse.com/products/523728125962</id>
+    <published>2018-03-08T09:54:24-08:00</published>
+    <updated>2018-03-08T09:54:24-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://dabbingwarehouse.com/products/tds-motto-tank-top"/>
+    <title>The Dabbing Specialists Motto Tank Top</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>the dabbing specialists</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/3048/2964/products/the-dabbing-specialists-motto-tank-top-256687.jpg?v=1620785825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>the dabbing specialists<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Show the sun your guns, and rep our motto tank. This TDS tank shares our spirit and love of the California sun. The tank is Port &amp; Company and is 100% cotton.</p>
+<p><a href="https://dabbingwarehouse.com/pages/shipping-policy" target="_blank" title="View our shipping fees &amp; policies!" rel="noopener noreferrer">[click to view our shipping policies]</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apparel</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Tank</s:tag>
+    <s:tag>Tank Top</s:tag>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728125962</id>
+      <title>M</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728125962</id>
+      <title>L</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dabbingwarehouse.com/products/523728125962</id>
+      <title>XL</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>
